@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Logo propio -->
-  <img src="https://raw.githubusercontent.com/bytescubed/logos-bytes-cubed/master/logo.svg" width="200" alt="BytesCubed Logo"/>
+  <img src="https://raw.githubusercontent.com/bytescubed/logos-bytes-cubed/refs/heads/master/logo-bytes-cubed.svg" width="200" alt="BytesCubed Logo"/>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Tech+Content+Creator;Developer+Tools+Enthusiast;Learning+English+Through+Code;Sharing+Knowledge+%26+Experience" alt="Typing SVG" />
   
