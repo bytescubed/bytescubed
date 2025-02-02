@@ -1,16 +1,19 @@
-# Welcome to Bytes³ Cubed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+# Welcome to BytesCubed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 <div align="center">
+  <!-- Logo propio -->
+  <img src="https://raw.githubusercontent.com/bytescubed/logos-bytes-cubed/master/logo.svg" width="200" alt="BytesCubed Logo"/>
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Tech+Content+Creator;Developer+Tools+Enthusiast;Learning+English+Through+Code;Sharing+Knowledge+%26+Experience" alt="Typing SVG" />
   
   <br>
   
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@bytes3cubed)
-  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@bytes3cubed)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bytes3cubed)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@bytescubed)
+  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@bytescubed)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bytescubed)
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🎯 What You'll Find Here
 
@@ -20,6 +23,7 @@ Welcome to my tech universe! Here you'll discover:
 - 💡 Quick solutions to common problems
 - 🌐 Tech content in English (learning together!)
 
+[resto del contenido...]
 ## 💻 Content Focus
 
 ```typescript
