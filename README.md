@@ -1,19 +1,28 @@
 # Welcome to BytesCubed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 <div align="center">
-  <!-- Logo propio -->
-  <img src="https://raw.githubusercontent.com/bytescubed/logos-bytes-cubed/refs/heads/master/logo-bytes-cubed.svg" width="200" alt="BytesCubed Logo"/>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/bytescubed/logos-bytes-cubed/refs/heads/master/logo-bytes-cubed.svg" width="300" alt="BytesCubed Logo"/>
+  </p>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Tech+Content+Creator;Developer+Tools+Enthusiast;Learning+English+Through+Code;Sharing+Knowledge+%26+Experience" alt="Typing SVG" />
+  <p align="center">Tech Content Creator</p>
   
-  <br>
-  
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@bytescubed)
-  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@bytescubed)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bytescubed)
+  <p align="center">
+    <a href="https://youtube.com/@bytescubed">
+      <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    </a>
+    <a href="https://tiktok.com/@bytescubed">
+      <img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+    </a>
+    <a href="https://github.com/bytescubed">
+      <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
 </div>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<br/>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🎯 What You'll Find Here
 
@@ -23,12 +32,13 @@ Welcome to my tech universe! Here you'll discover:
 - 💡 Quick solutions to common problems
 - 🌐 Tech content in English (learning together!)
 
-[resto del contenido...]
+<br/>
+
 ## 💻 Content Focus
 
 ```typescript
 class ContentCreator {
-  name: string = 'Bytes³ Cubed';
+  name: string = 'BytesCubed';
   focus: string[] = ['DevTools', 'Best Practices', 'Learning English'];
   
   constructor() {
@@ -51,6 +61,8 @@ class ContentCreator {
   }
 }
 ```
+
+<br/>
 
 ## 🎥 Latest Content
 
@@ -75,22 +87,28 @@ class ContentCreator {
   </table>
 </div>
 
+<br/>
+
 ## 🛠 Resource Categories
 
 <div align="center">
-  
-  ![Development](https://img.shields.io/badge/Development-Environment-blue?style=for-the-badge)
-  ![DevTools](https://img.shields.io/badge/Dev-Tools-green?style=for-the-badge)
-  ![Tutorials](https://img.shields.io/badge/Video-Tutorials-red?style=for-the-badge)
-  ![Solutions](https://img.shields.io/badge/Quick-Solutions-yellow?style=for-the-badge)
-  
+  <p>
+    <img src="https://img.shields.io/badge/Development-Environment-blue?style=for-the-badge" alt="Development"/>
+    <img src="https://img.shields.io/badge/Dev-Tools-green?style=for-the-badge" alt="DevTools"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Video-Tutorials-red?style=for-the-badge" alt="Tutorials"/>
+    <img src="https://img.shields.io/badge/Quick-Solutions-yellow?style=for-the-badge" alt="Solutions"/>
+  </p>
 </div>
+
+<br/>
 
 ## 📊 Repository Structure
 
 ```mermaid
 graph TD
-    A[Bytes³ Cubed Resources] --> B[Setup Guides]
+    A[BytesCubed Resources] --> B[Setup Guides]
     A --> C[AWS Tutorials]
     A --> D[Quick Solutions]
     B --> E[NVM Guide]
@@ -102,12 +120,14 @@ graph TD
     D --> K[Git Commands]
 ```
 
+<br/>
+
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bytes3cubed&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=bytescubed&color=blue" alt="Profile views" />
   
-  ### 🤝 Let's Learn Together!
+  <h3>🤝 Let's Learn Together!</h3>
   
-  _"Every expert was once a beginner" - Helen Hayes_
+  <i>"Every expert was once a beginner" - Helen Hayes</i>
 </div>
